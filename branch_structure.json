@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-714-add-development-proxy",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-714-add-development-proxy": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-714-add-development-proxy",
+    "origin"
+  ]
+}
